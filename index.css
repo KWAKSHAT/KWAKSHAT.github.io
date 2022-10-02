@@ -10,7 +10,7 @@
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size:15px;
         color:gainsboro;
-        margin-left: 45px;
+        margin-left: 450px;
         padding-top: 8px;
     }
     .orion{
@@ -32,8 +32,8 @@ a:hover{
         height: 100vh;}
         
     .connect
-    {  background-color: beige;
-        color:coral;
+    {  background-color: #CC0000;
+        color:white;
         border-radius : 15px;
         
         height: auto;
@@ -41,9 +41,7 @@ a:hover{
         margin-top:70px;
         text-align: center;
     }
-    .color{
-        color:coral;
-    }
+   
     .centerdiv{
         display:flex;
         justify-content: center;
