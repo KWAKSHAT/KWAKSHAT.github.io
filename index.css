@@ -22,7 +22,8 @@
         padding: 0;
     }
 a:hover{
-   color:cornflowerblue;}
+   color:#002ead;
+   transition: 0.7s;}
     .image{
        background-color:black;
         width:100%;
@@ -53,6 +54,7 @@ a:hover{
         width:100px;
        color:white;
        background-color:black;
+       border-radius : 0px;
        margin:10px;
        text-align: center;
        line-height: 120px;
