@@ -4,7 +4,7 @@
         font-size: 35px;
         color:white;
         margin-left: 450px;
-        padding-top: 250px;
+        padding-top: 180px;
     }
     .text2{
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,9 +51,8 @@ a:hover{
     .anchor{
         height:100px;
         width:100px;
-       color:blueviolet;
-       background-color: #f5f6fa;
-       border-radius : 50px;
+       color:white;
+       background-color:#CC0000;
        margin:10px;
        text-align: center;
        line-height: 120px;
