@@ -25,6 +25,7 @@ a:hover{
    color:#002ead;
    transition: 0.7s;}
     .image{
+       background-color: black;
        background-image: url("https://github.com/KWAKSHAT/KWAKSHAT.github.io/blob/main/img.jpg");
         width:100%;
         background-size: cover;
