@@ -2,15 +2,15 @@
        
     .text{
         font-size: 35px;
-        
-        margin-left: 20px;
+        color:white;
+        margin-left: 450px;
         padding-top: 250px;
     }
     .text2{
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size:15px;
         color:gainsboro;
-        margin-left: 20px;
+        margin-left: 45px;
         padding-top: 8px;
     }
     .orion{
@@ -24,6 +24,7 @@
 a:hover{
    color:cornflowerblue;}
     .image{
+       background-color:black;
         width:100%;
         background-size: cover;
         overflow: auto;
